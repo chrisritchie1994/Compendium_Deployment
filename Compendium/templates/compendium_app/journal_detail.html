@@ -1,0 +1,73 @@
+{% extends "base.html" %}
+
+{% block content %}
+    {% load static %}
+    <script src="{% static 'prism.js' %}"></script>
+    <link rel="stylesheet" href="{% static 'prism.css' %}">
+    <style>
+    .table_2 {
+        text-align: left;
+        position: relative;
+        left: 25%;
+        width: 775px;
+        padding: 20px 20px 20px 20px;
+        border-radius: 2rem;
+    }
+
+    .elem {
+        background: #0248ff;
+        padding: 5px 10px 15px 10px; /* top right bottom left */
+        border-radius: 1rem;
+    }
+
+    td {
+        padding: 15px 15px 15px 15px;
+    }
+    tbody tr:nth-child(odd) {
+        background-color: #203f85;
+
+    }
+
+    tbody tr:nth-child(even) {
+        background-color: #f0f2ff;
+        color: black;
+    }
+
+    body {
+        font-family: "Karla";
+        font-weight: 400;
+        color: white;
+    }
+
+    </style>
+    <table class="table_2">
+
+        <tr class="elem">
+            <td width="15%"><h3>Title</h3></td>
+            <td>{{ journal.title }}</td>
+        </tr>
+        <tr class="elem">
+            <td><h3>Rating</h3></td>
+            <td>{{ journal.rating}}</td>
+        </tr>
+        <tr class="elem">
+            <td><h3>User</h3></td>
+            <td>{{ journal.created_by }}</td>
+        </tr>
+        <tr class="elem">
+            <td><h3>Type</h3></td>
+            <td>{{ journal.data_type }}</tr>
+        <tr class="elem">
+            <td colspan="2">
+                <h3>Entry</h3>
+            </td>
+        </tr>
+        <tr class="elem">
+            <td colspan="2">
+                <code class="language-compendium"> {{ journal.entry }} </code>
+            </td>
+        </tr>
+    </table>
+    <br>
+    <br>
+{% endblock %}

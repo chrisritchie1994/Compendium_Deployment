@@ -1,0 +1,78 @@
+{% extends "base.html" %}
+
+{% block content %}
+<style>
+
+.grid {
+  -webkit-column-count: 3;
+  -webkit-column-gap: 10px;
+  -webkit-column-fill: auto;
+  -moz-column-count: 3;
+  -moz-column-gap: 10px;
+  -moz-column-fill: auto;
+  column-count: 4;
+  column-gap: 15px;
+  column-fill: auto;
+}
+.block {
+  display: block;
+  background-color: #0e1743;
+  color: white;
+  padding: 20px;
+  word-wrap: break-word;
+  margin-bottom: 20px;
+  -webkit-column-break-inside: avoid;
+  -moz-column-break-inside: avoid;
+  column-break-inside: avoid;
+  font-family: "Karla";
+  font-weight: 400;
+}
+
+.one {
+  position: relative;
+}
+
+
+
+h1 {
+    color: white;
+    font-family: "Karla";
+}
+
+a {
+    color: white;
+}
+
+.a_title {
+    color: black
+}
+
+.a_create{
+    color: #ffffff
+}
+
+
+.demo-class {
+    color: white;
+    font-family: "Karla";
+}
+
+</style>
+  <h1>Principles</h1>
+    <div class="grid">
+    {% for principle in principle_list %}
+    <div class="block  one">
+    <a href="/journal/{{ principle.journal.pk }}"> <h2>{{ principle.journal }}</h2> </a>
+    {{ principle.principle }}</div>
+    {% endfor %}
+</div>
+
+{% for principle in principle_list %}
+    {% if principle %}
+        {{ break }}
+    {% endif %}
+{% empty %}
+    <p class="demo-class">You haven't created any principles yet, you can get started <a class="a_create" href="/journal/create/">here</a></p>
+{% endfor %}
+
+{% endblock %}

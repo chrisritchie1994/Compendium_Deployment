@@ -1,0 +1,126 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Compendium</title>
+</head>
+<style>
+    @import url('https://fonts.googleapis.com/css?family=Karla:400,700');
+    @import url('https://fonts.googleapis.com/css?family=Roboto');
+
+    body {
+        background-color: #24344c
+    }
+    img {
+        display: block;
+        margin-left: auto;
+        margin-right: auto;
+    }
+    .topnav {
+        overflow: hidden;
+    }
+    .topnav a {
+        display: inline-block;
+        color: #f5fffa;
+        font-family: "Karla", serif;
+        font-weight: 700;
+        text-align: center;
+        text-decoration: none;
+        padding: 15px;
+        font-size: 25px;
+    }
+
+    .topnav a:hover {
+        color: #17f6ff;
+    }
+
+    #menu-outer {
+        height: 84px;
+    }
+
+    .table {
+        display: table;   /* Allow the centering to work */
+        margin: 0 auto;
+    }
+
+    ul#horizontal-list {
+        min-width: 696px;
+        list-style: none;
+    }
+    ul#horizontal-list li {
+        display: inline;
+    }
+
+.footer_logged {
+   position: relative;
+   left: 0;
+   bottom: 0;
+   width: 100%;
+   color: white;
+   text-align: center;
+   font-family: 'Roboto', serif;
+    }
+
+    .footer_not_logged {
+   position: fixed;
+   left: 0;
+   bottom: 0;
+   width: 100%;
+   background-color: #2398ff;
+   color: white;
+   text-align: center;
+   font-family: 'Roboto', serif;
+    }
+
+#link {
+    color:white;
+}
+</style>
+<body>
+{% load static %}
+<br>
+<br>
+<img src="{% static 'compendium_logo.png' %}" alt="compendium_logo">
+<div id="menu-outer">
+    <div class="table">
+        <div class ="topnav">
+            <ul id="horizontal-list" class="active">
+                <li><a href="/journal/create/">NEW JOURNAL</a></li>
+                <li><a href="/journals/">JOURNAL</a></li>
+                <li><a href="/observations/">OBSERVATION</a></li>
+                <li><a href="/lessons/">LESSON</a></li>
+                <li><a href="/principles/">PRINCIPLE</a></li>
+                <li><a href="/decisions/">DECISION</a></li>
+                <li><a href="/ideas/">IDEA</a></li>
+                <li><a href="/aphorisms/">APHORISM</a></li>
+            </ul>
+        </div>
+    </div>
+</div>
+<br>
+<br>
+{% block content %}{% endblock content %}
+
+
+{% if not user.is_authenticated %}
+
+    <div class="footer_not_logged">
+            <p>You are not logged in, <a href="/accounts/login/" id="link">click here.</a></p>
+    </div>
+{% else %}
+    <br>
+    <br>
+    <br>
+    <br>
+    <br>
+    <br>
+    <br>
+    <div class="footer_logged">
+            <p>You are currently logged in as {{ user.username}}, to logout <a href="/accounts/logout/" id="link">click here.</a></p>
+    </div>
+{% endif %}
+
+
+
+</body>
+</html>

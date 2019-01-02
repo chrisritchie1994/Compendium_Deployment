@@ -1,0 +1,3 @@
+POSTGRES_USER=chrisr
+POSTGRES_PASSWORD=J0sephine
+POSTGRES_DB=compendium_prod

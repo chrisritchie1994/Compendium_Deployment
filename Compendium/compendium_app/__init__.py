@@ -1,0 +1,1 @@
+default_app_config = 'compendium_app.apps.CompendiumAppConfig'
