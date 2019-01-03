@@ -1,0 +1,2 @@
+,date_joined,email,first_name,id,is_active,is_staff,is_superuser,last_login,last_name,password,username
+0,2019-01-03 14:01:25.442224+00:00,personalchrisritchie@gmail.com,,1,True,True,True,2019-01-03 14:08:30.538563+00:00,,pbkdf2_sha256$120000$4BpkOPPMr8I2$4NYUI9yApnfer/y4viuLgBAaVvdCRoDkK05q3H/wXvE=,chrisr

@@ -1,0 +1,382 @@
+,created_by_id,data_type,date_created,entry,journal_id,rating,title
+0,1,Test,2019-01-03 14:02:00.327920+00:00,"So this is my first journal entry, time to try out the sub-entries! 
+
+#i Build an app where we can quickly store my ideas #/i
+#d Don't stay up after 10:00pm #/d
+#p Don't pick fights with people that have nothing to lose #/p
+#a A moment in the mind is worth nine in the fire #/a",1,10,My first journal !
+1,1,Test,2019-01-03 14:02:00.330673+00:00,Test,2,5,Hello
+2,1,Test,2019-01-03 14:02:00.331492+00:00,sadsad,3,5,Test
+3,1,Test,2019-01-03 14:02:00.332248+00:00,tets,4,5,test
+4,1,Test,2019-01-03 14:02:00.332955+00:00,tets,5,5,test
+5,1,Test,2019-01-03 14:02:00.333654+00:00,tets,6,5,test
+6,1,Test,2019-01-03 14:02:00.334362+00:00,tets,7,5,test
+7,1,Test,2019-01-03 14:02:00.335098+00:00,tets,8,5,test
+8,1,Test,2019-01-03 14:02:00.335827+00:00,tets,9,5,test
+9,1,Test,2019-01-03 14:02:00.336648+00:00,sadas,10,5,My first Journal
+10,1,Test,2019-01-03 14:02:00.337370+00:00,sadsa,11,5,Test
+11,1,Test,2019-01-03 14:02:00.338043+00:00,asdasd,12,5,Test
+12,1,Test,2019-01-03 14:02:00.343874+00:00,test,13,5,My first Journal
+13,1,Test,2019-01-03 14:02:00.344798+00:00,"#i I have a great new idea i#
+
+that I'll tell you about later",14,5,Hello
+14,1,Test,2019-01-03 14:02:00.354524+00:00,"Hi I'm not creating my journal entry
+
+let's see how it goes
+
+#p Here's a principle idea p#
+#i Now here's an idea i#",15,5,Test
+15,1,Test,2019-01-03 14:02:00.358519+00:00,entery,16,10,Demo
+16,1,Test,2019-01-03 14:02:00.359209+00:00,dasdas,17,5,Test
+17,1,Test,2019-01-03 14:02:00.359874+00:00,"#i Wow this is really interesting i#
+#p I can add all sorts of tagsp#
+#a And we ca see how they work a#
+
+So ?",18,8,Hi Edward
+18,1,Test,2019-01-03 14:02:00.383548+00:00,asdasdasd,19,5,dasdsad
+19,1,Test,2019-01-03 14:02:00.384312+00:00,#i Here's the first idea i#,20,5,First Idea
+20,1,Test,2019-01-03 14:02:00.390862+00:00,"#i Testing a brand new idea to see how it works andddddddddddddddddddddddddddddddddddd
+i#
+
+Making sure it scales correctly",21,5,Test
+21,1,Test,2019-01-03 14:02:00.393359+00:00,"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec non viverra tellus. Donec a ipsum ac lorem condimentum dignissim. Aenean vulputate sagittis luctus. Phasellus feugiat venenatis nisl et cursus. Maecenas porttitor mollis mauris vitae tincidunt. Quisque fermentum sed urna in tincidunt. Nulla tincidunt magna ut tristique efficitur. Sed congue sem sed dolor varius, non interdum diam commodo. Aenean auctor venenatis condimentum. Aenean nec neque et urna dapibus pharetra et quis dui. Aenean ut congue lacus, in tempus enim.
+
+Pellentesque molestie lectus vel elit maximus vehicula. Suspendisse nec dui ac magna facilisis imperdiet at porttitor eros. Proin vel placerat magna. Pellentesque libero nulla, mattis vitae ullamcorper vitae, hendrerit in elit. Duis eleifend, justo nec bibendum dapibus, urna mauris ultricies lectus, in pharetra urna elit id orci. Vestibulum molestie pharetra efficitur. Quisque eleifend a quam non interdum. Vivamus scelerisque commodo nibh vel sodales. Nullam placerat, tortor id gravida rutrum, neque ipsum porttitor ex, et porttitor massa leo quis dolor. Nunc rutrum tortor ut lectus accumsan, non efficitur ex elementum.
+
+Integer ut ipsum orci. Aliquam non pretium erat. Pellentesque rutrum orci dolor, sit amet faucibus arcu ornare ut. Proin tempus neque eget enim facilisis ultricies. Maecenas efficitur nisi ut ullamcorper tristique. Nam erat urna, rhoncus in lacus non, condimentum semper turpis. Nullam dapibus a mauris sed venenatis. Aliquam sed mauris orci. Sed pharetra arcu in erat placerat, ac dictum mauris porttitor. Donec quis lorem nisi.
+
+Suspendisse dignissim eget quam eu aliquam. Quisque sed metus sapien. Donec pretium dui enim, ut auctor enim dignissim in. Pellentesque eu dolor urna. Quisque sit amet scelerisque ex. Sed ut convallis sem. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Vivamus vel sodales est. Aliquam porta risus et aliquet auctor. Curabitur nec suscipit metus, ut fringilla ligula. Donec at ligula ac dui ullamcorper tincidunt eu in elit. Nam a elit venenatis arcu hendrerit facilisis. Nam tincidunt, est ac fringilla rhoncus, neque velit bibendum metus, vel interdum metus neque sed ligula. Aliquam erat volutpat. Ut eget odio eleifend, maximus felis et, vestibulum nisi.
+
+Proin interdum lacus in sollicitudin ullamcorper. Donec eget ipsum in dui consectetur gravida et a odio. Sed id nibh iaculis, dictum purus et, tempor risus. Vestibulum placerat orci magna, at faucibus purus congue vitae. Sed porttitor urna sapien, tincidunt eleifend lacus imperdiet sed. Morbi porttitor laoreet ex, sed varius massa cursus et. In non neque odio. Aliquam erat volutpat. Mauris scelerisque nisi nec molestie luctus. Ut iaculis mauris a diam tincidunt sollicitudin a eu lectus. Vestibulum sapien neque, placerat condimentum cursus nec, imperdiet vitae mi. Phasellus facilisis venenatis ligula vestibulum aliquet.",22,5,TGest
+22,1,Test,2019-01-03 14:02:00.394135+00:00,"Today I tried to figure if Sean liked my hair.
+#pNever fight a crackhead p#
+#i Here's my cool idea i#
+#d lose some weight d#
+#a When you lose weight don't put it back on a#
+#a Pleas excuse my dear aunt Sallya##",23,7,Demo Sean
+23,1,Test,2019-01-03 14:02:00.404113+00:00,nan,24,2,Aleena's drunken night
+24,1,Test,2019-01-03 14:07:06.773531+00:00,"So this is my first journal entry, time to try out the sub-entries! 
+
+#i Build an app where we can quickly store my ideas #/i
+#d Don't stay up after 10:00pm #/d
+#p Don't pick fights with people that have nothing to lose #/p
+#a A moment in the mind is worth nine in the fire #/a",25,10,My first journal !
+25,1,Test,2019-01-03 14:07:06.774810+00:00,Test,26,5,Hello
+26,1,Test,2019-01-03 14:07:06.775640+00:00,sadsad,27,5,Test
+27,1,Test,2019-01-03 14:07:06.776418+00:00,tets,28,5,test
+28,1,Test,2019-01-03 14:07:06.777135+00:00,tets,29,5,test
+29,1,Test,2019-01-03 14:07:06.777889+00:00,tets,30,5,test
+30,1,Test,2019-01-03 14:07:06.778645+00:00,tets,31,5,test
+31,1,Test,2019-01-03 14:07:06.779370+00:00,tets,32,5,test
+32,1,Test,2019-01-03 14:07:06.780113+00:00,tets,33,5,test
+33,1,Test,2019-01-03 14:07:06.780968+00:00,sadas,34,5,My first Journal
+34,1,Test,2019-01-03 14:07:06.781776+00:00,sadsa,35,5,Test
+35,1,Test,2019-01-03 14:07:06.782520+00:00,asdasd,36,5,Test
+36,1,Test,2019-01-03 14:07:06.783240+00:00,test,37,5,My first Journal
+37,1,Test,2019-01-03 14:07:06.783940+00:00,"#i I have a great new idea i#
+
+that I'll tell you about later",38,5,Hello
+38,1,Test,2019-01-03 14:07:06.791714+00:00,"Hi I'm not creating my journal entry
+
+let's see how it goes
+
+#p Here's a principle idea p#
+#i Now here's an idea i#",39,5,Test
+39,1,Test,2019-01-03 14:07:06.796799+00:00,entery,40,10,Demo
+40,1,Test,2019-01-03 14:07:06.797724+00:00,dasdas,41,5,Test
+41,1,Test,2019-01-03 14:07:06.802175+00:00,"#i Wow this is really interesting i#
+#p I can add all sorts of tagsp#
+#a And we ca see how they work a#
+
+So ?",42,8,Hi Edward
+42,1,Test,2019-01-03 14:07:06.806298+00:00,asdasdasd,43,5,dasdsad
+43,1,Test,2019-01-03 14:07:06.809306+00:00,#i Here's the first idea i#,44,5,First Idea
+44,1,Test,2019-01-03 14:07:06.811655+00:00,"#i Testing a brand new idea to see how it works andddddddddddddddddddddddddddddddddddd
+i#
+
+Making sure it scales correctly",45,5,Test
+45,1,Real,2019-01-03 14:08:18.855025+00:00,#i Build a action checklist app i#,85,6,To do List
+46,1,Real,2019-01-03 14:08:18.857475+00:00,"#i 
+Implement an instance of the Celery task scheduling, 
+and setup: 
+
+1. Notifications to phone to complete a compendium blog
+each day
+
+2. Move jobs over from cron to Celery task scheduling
+
+i#",86,7,Scheduling/ Notification Mechanism
+47,1,Real,2019-01-03 14:08:18.861725+00:00,"#i 
+Build a to-do list app that can be accessed
+via the Compendium core application 
+i#",87,7,To do list
+48,1,Test,2019-01-03 14:07:06.821596+00:00,"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec non viverra tellus. Donec a ipsum ac lorem condimentum dignissim. Aenean vulputate sagittis luctus. Phasellus feugiat venenatis nisl et cursus. Maecenas porttitor mollis mauris vitae tincidunt. Quisque fermentum sed urna in tincidunt. Nulla tincidunt magna ut tristique efficitur. Sed congue sem sed dolor varius, non interdum diam commodo. Aenean auctor venenatis condimentum. Aenean nec neque et urna dapibus pharetra et quis dui. Aenean ut congue lacus, in tempus enim.
+
+Pellentesque molestie lectus vel elit maximus vehicula. Suspendisse nec dui ac magna facilisis imperdiet at porttitor eros. Proin vel placerat magna. Pellentesque libero nulla, mattis vitae ullamcorper vitae, hendrerit in elit. Duis eleifend, justo nec bibendum dapibus, urna mauris ultricies lectus, in pharetra urna elit id orci. Vestibulum molestie pharetra efficitur. Quisque eleifend a quam non interdum. Vivamus scelerisque commodo nibh vel sodales. Nullam placerat, tortor id gravida rutrum, neque ipsum porttitor ex, et porttitor massa leo quis dolor. Nunc rutrum tortor ut lectus accumsan, non efficitur ex elementum.
+
+Integer ut ipsum orci. Aliquam non pretium erat. Pellentesque rutrum orci dolor, sit amet faucibus arcu ornare ut. Proin tempus neque eget enim facilisis ultricies. Maecenas efficitur nisi ut ullamcorper tristique. Nam erat urna, rhoncus in lacus non, condimentum semper turpis. Nullam dapibus a mauris sed venenatis. Aliquam sed mauris orci. Sed pharetra arcu in erat placerat, ac dictum mauris porttitor. Donec quis lorem nisi.
+
+Suspendisse dignissim eget quam eu aliquam. Quisque sed metus sapien. Donec pretium dui enim, ut auctor enim dignissim in. Pellentesque eu dolor urna. Quisque sit amet scelerisque ex. Sed ut convallis sem. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Vivamus vel sodales est. Aliquam porta risus et aliquet auctor. Curabitur nec suscipit metus, ut fringilla ligula. Donec at ligula ac dui ullamcorper tincidunt eu in elit. Nam a elit venenatis arcu hendrerit facilisis. Nam tincidunt, est ac fringilla rhoncus, neque velit bibendum metus, vel interdum metus neque sed ligula. Aliquam erat volutpat. Ut eget odio eleifend, maximus felis et, vestibulum nisi.
+
+Proin interdum lacus in sollicitudin ullamcorper. Donec eget ipsum in dui consectetur gravida et a odio. Sed id nibh iaculis, dictum purus et, tempor risus. Vestibulum placerat orci magna, at faucibus purus congue vitae. Sed porttitor urna sapien, tincidunt eleifend lacus imperdiet sed. Morbi porttitor laoreet ex, sed varius massa cursus et. In non neque odio. Aliquam erat volutpat. Mauris scelerisque nisi nec molestie luctus. Ut iaculis mauris a diam tincidunt sollicitudin a eu lectus. Vestibulum sapien neque, placerat condimentum cursus nec, imperdiet vitae mi. Phasellus facilisis venenatis ligula vestibulum aliquet.",46,5,TGest
+49,1,Test,2019-01-03 14:07:06.822866+00:00,"Today I tried to figure if Sean liked my hair.
+#pNever fight a crackhead p#
+#i Here's my cool idea i#
+#d lose some weight d#
+#a When you lose weight don't put it back on a#
+#a Pleas excuse my dear aunt Sallya##",47,7,Demo Sean
+50,1,Test,2019-01-03 14:07:06.830751+00:00,nan,48,2,Aleena's drunken night
+51,1,Test,2019-01-03 14:07:06.832254+00:00,#i Something test data i#,49,5,Test
+52,1,Test,2019-01-03 14:07:06.837151+00:00,#iTest i#,50,5,Test
+53,1,Test,2019-01-03 14:07:06.840625+00:00,#i Test i#,51,5,Test
+54,1,Test,2019-01-03 14:07:06.850607+00:00,#i Why is this not working you fucker i#,52,5,Test
+55,1,Test,2019-01-03 14:08:18.760564+00:00,"So this is my first journal entry, time to try out the sub-entries! 
+
+#i Build an app where we can quickly store my ideas #/i
+#d Don't stay up after 10:00pm #/d
+#p Don't pick fights with people that have nothing to lose #/p
+#a A moment in the mind is worth nine in the fire #/a",54,10,My first journal !
+56,1,Test,2019-01-03 14:08:18.762830+00:00,Test,55,5,Hello
+57,1,Test,2019-01-03 14:08:18.764116+00:00,sadsad,56,5,Test
+58,1,Test,2019-01-03 14:08:18.764856+00:00,tets,57,5,test
+59,1,Test,2019-01-03 14:08:18.765985+00:00,tets,58,5,test
+60,1,Test,2019-01-03 14:08:18.766962+00:00,tets,59,5,test
+61,1,Test,2019-01-03 14:08:18.767922+00:00,tets,60,5,test
+62,1,Test,2019-01-03 14:08:18.770215+00:00,tets,61,5,test
+63,1,Test,2019-01-03 14:08:18.771300+00:00,tets,62,5,test
+64,1,Test,2019-01-03 14:08:18.772118+00:00,sadas,63,5,My first Journal
+65,1,Test,2019-01-03 14:08:18.774990+00:00,sadsa,64,5,Test
+66,1,Test,2019-01-03 14:08:18.775921+00:00,asdasd,65,5,Test
+67,1,Test,2019-01-03 14:08:18.776607+00:00,test,66,5,My first Journal
+68,1,Test,2019-01-03 14:08:18.778221+00:00,"#i I have a great new idea i#
+
+that I'll tell you about later",67,5,Hello
+69,1,Test,2019-01-03 14:08:18.782104+00:00,"Hi I'm not creating my journal entry
+
+let's see how it goes
+
+#p Here's a principle idea p#
+#i Now here's an idea i#",68,5,Test
+70,1,Test,2019-01-03 14:08:18.786953+00:00,entery,69,10,Demo
+71,1,Test,2019-01-03 14:08:18.789858+00:00,dasdas,70,5,Test
+72,1,Test,2019-01-03 14:08:18.790588+00:00,"#i Wow this is really interesting i#
+#p I can add all sorts of tagsp#
+#a And we ca see how they work a#
+
+So ?",71,8,Hi Edward
+73,1,Test,2019-01-03 14:08:18.797420+00:00,asdasdasd,72,5,dasdsad
+74,1,Test,2019-01-03 14:08:18.798187+00:00,#i Here's the first idea i#,73,5,First Idea
+75,1,Test,2019-01-03 14:08:18.806123+00:00,"#i Testing a brand new idea to see how it works andddddddddddddddddddddddddddddddddddd
+i#
+
+Making sure it scales correctly",74,5,Test
+76,1,Test,2019-01-03 14:08:18.808494+00:00,"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec non viverra tellus. Donec a ipsum ac lorem condimentum dignissim. Aenean vulputate sagittis luctus. Phasellus feugiat venenatis nisl et cursus. Maecenas porttitor mollis mauris vitae tincidunt. Quisque fermentum sed urna in tincidunt. Nulla tincidunt magna ut tristique efficitur. Sed congue sem sed dolor varius, non interdum diam commodo. Aenean auctor venenatis condimentum. Aenean nec neque et urna dapibus pharetra et quis dui. Aenean ut congue lacus, in tempus enim.
+
+Pellentesque molestie lectus vel elit maximus vehicula. Suspendisse nec dui ac magna facilisis imperdiet at porttitor eros. Proin vel placerat magna. Pellentesque libero nulla, mattis vitae ullamcorper vitae, hendrerit in elit. Duis eleifend, justo nec bibendum dapibus, urna mauris ultricies lectus, in pharetra urna elit id orci. Vestibulum molestie pharetra efficitur. Quisque eleifend a quam non interdum. Vivamus scelerisque commodo nibh vel sodales. Nullam placerat, tortor id gravida rutrum, neque ipsum porttitor ex, et porttitor massa leo quis dolor. Nunc rutrum tortor ut lectus accumsan, non efficitur ex elementum.
+
+Integer ut ipsum orci. Aliquam non pretium erat. Pellentesque rutrum orci dolor, sit amet faucibus arcu ornare ut. Proin tempus neque eget enim facilisis ultricies. Maecenas efficitur nisi ut ullamcorper tristique. Nam erat urna, rhoncus in lacus non, condimentum semper turpis. Nullam dapibus a mauris sed venenatis. Aliquam sed mauris orci. Sed pharetra arcu in erat placerat, ac dictum mauris porttitor. Donec quis lorem nisi.
+
+Suspendisse dignissim eget quam eu aliquam. Quisque sed metus sapien. Donec pretium dui enim, ut auctor enim dignissim in. Pellentesque eu dolor urna. Quisque sit amet scelerisque ex. Sed ut convallis sem. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Vivamus vel sodales est. Aliquam porta risus et aliquet auctor. Curabitur nec suscipit metus, ut fringilla ligula. Donec at ligula ac dui ullamcorper tincidunt eu in elit. Nam a elit venenatis arcu hendrerit facilisis. Nam tincidunt, est ac fringilla rhoncus, neque velit bibendum metus, vel interdum metus neque sed ligula. Aliquam erat volutpat. Ut eget odio eleifend, maximus felis et, vestibulum nisi.
+
+Proin interdum lacus in sollicitudin ullamcorper. Donec eget ipsum in dui consectetur gravida et a odio. Sed id nibh iaculis, dictum purus et, tempor risus. Vestibulum placerat orci magna, at faucibus purus congue vitae. Sed porttitor urna sapien, tincidunt eleifend lacus imperdiet sed. Morbi porttitor laoreet ex, sed varius massa cursus et. In non neque odio. Aliquam erat volutpat. Mauris scelerisque nisi nec molestie luctus. Ut iaculis mauris a diam tincidunt sollicitudin a eu lectus. Vestibulum sapien neque, placerat condimentum cursus nec, imperdiet vitae mi. Phasellus facilisis venenatis ligula vestibulum aliquet.",75,5,TGest
+77,1,Test,2019-01-03 14:08:18.810758+00:00,"Today I tried to figure if Sean liked my hair.
+#pNever fight a crackhead p#
+#i Here's my cool idea i#
+#d lose some weight d#
+#a When you lose weight don't put it back on a#
+#a Pleas excuse my dear aunt Sallya##",76,7,Demo Sean
+78,1,Test,2019-01-03 14:08:18.817590+00:00,nan,77,2,Aleena's drunken night
+79,1,Test,2019-01-03 14:08:18.821652+00:00,#i Something test data i#,78,5,Test
+80,1,Test,2019-01-03 14:08:18.824061+00:00,#iTest i#,79,5,Test
+81,1,Test,2019-01-03 14:08:18.827939+00:00,#i Test i#,80,5,Test
+82,1,Test,2019-01-03 14:08:18.832351+00:00,#i Why is this not working you fucker i#,81,5,Test
+83,1,Real,2019-01-03 14:08:18.838427+00:00,#a A moment in the mind is worth nine in the fire a#,82,7,First Real Journal
+84,1,Real,2019-01-03 14:08:18.840779+00:00,"Finally built this website, pretty happy with. 
+
+Let's test it out
+
+#pEvery problem provides an opportunity and with
+ it experience, look for bigger problems p#
+
+#d
+When staying up late determine: 
+1. Whether the time would be better 
+spend sleeping and getting up early
+2. or whether it must be done tonight
+d#
+
+#i Build a Monte Carlo simulator machine 
+and demonstrate the results through a Django framework i#
+
+#a Do you want to be right or do 
+you want to fucking win? a#",83,10,Brand new journal
+85,1,Real,2019-01-03 14:08:18.848870+00:00,"#a stories become thoughts, thoughts become actions,
+actions become our life a#",84,7,Reflection with Aleena
+86,1,Test,2019-01-03 14:08:18.864146+00:00,"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec non viverra tellus. Donec a ipsum ac lorem condimentum dignissim. Aenean vulputate sagittis luctus. Phasellus feugiat venenatis nisl et cursus. Maecenas porttitor mollis mauris vitae tincidunt. Quisque fermentum sed urna in tincidunt. Nulla tincidunt magna ut tristique efficitur. Sed congue sem sed dolor varius, non interdum diam commodo. Aenean auctor venenatis condimentum. Aenean nec neque et urna dapibus pharetra et quis dui. Aenean ut congue lacus, in tempus enim.
+
+Pellentesque molestie lectus vel elit maximus vehicula. Suspendisse nec dui ac magna facilisis imperdiet at porttitor eros. Proin vel placerat magna. Pellentesque libero nulla, mattis vitae ullamcorper vitae, hendrerit in elit. Duis eleifend, justo nec bibendum dapibus, urna mauris ultricies lectus, in pharetra urna elit id orci. Vestibulum molestie pharetra efficitur. Quisque eleifend a quam non interdum. Vivamus scelerisque commodo nibh vel sodales. Nullam placerat, tortor id gravida rutrum, neque ipsum porttitor ex, et porttitor massa leo quis dolor. Nunc rutrum tortor ut lectus accumsan, non efficitur ex elementum.
+
+Integer ut ipsum orci. Aliquam non pretium erat. Pellentesque rutrum orci dolor, sit amet faucibus arcu ornare ut. Proin tempus neque eget enim facilisis ultricies. Maecenas efficitur nisi ut ullamcorper tristique. Nam erat urna, rhoncus in lacus non, condimentum semper turpis. Nullam dapibus a mauris sed venenatis. Aliquam sed mauris orci. Sed pharetra arcu in erat placerat, ac dictum mauris porttitor. Donec quis lorem nisi.
+
+Suspendisse dignissim eget quam eu aliquam. Quisque sed metus sapien. Donec pretium dui enim, ut auctor enim dignissim in. Pellentesque eu dolor urna. Quisque sit amet scelerisque ex. Sed ut convallis sem. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Vivamus vel sodales est. Aliquam porta risus et aliquet auctor. Curabitur nec suscipit metus, ut fringilla ligula. Donec at ligula ac dui ullamcorper tincidunt eu in elit. Nam a elit venenatis arcu hendrerit facilisis. Nam tincidunt, est ac fringilla rhoncus, neque velit bibendum metus, vel interdum metus neque sed ligula. Aliquam erat volutpat. Ut eget odio eleifend, maximus felis et, vestibulum nisi.
+
+Proin interdum lacus in sollicitudin ullamcorper. Donec eget ipsum in dui consectetur gravida et a odio. Sed id nibh iaculis, dictum purus et, tempor risus. Vestibulum placerat orci magna, at faucibus purus congue vitae. Sed porttitor urna sapien, tincidunt eleifend lacus imperdiet sed. Morbi porttitor laoreet ex, sed varius massa cursus et. In non neque odio. Aliquam erat volutpat. Mauris scelerisque nisi nec molestie luctus. Ut iaculis mauris a diam tincidunt sollicitudin a eu lectus. Vestibulum sapien neque, placerat condimentum cursus nec, imperdiet vitae mi. Phasellus facilisis venenatis ligula vestibulum aliquet.",88,5,Needs to be a big long dumb test
+87,1,Real,2019-01-03 14:08:18.866429+00:00,"When reading articles last night I found the web application https://wakatime.com/
+
+Wakatime records the time you spend programming, this might help me plot my trajectory of programming. 
+
+#i Download Wakatime onto my computer and use it as a tool to measure my programming hours  i#",89,8,Monitoring programming hours
+88,1,Test,2019-01-03 14:08:18.870707+00:00,#iI still don't think this will work i#,90,5,Test
+89,1,Test,2019-01-03 14:08:18.875668+00:00,#i still won't work i#,91,5,Test
+90,1,Test,2019-01-03 14:08:18.881393+00:00,#iWill this work plsi#,92,5,Test
+91,1,Test,2019-01-03 14:08:18.886001+00:00,#iwil lthis not work i#,93,5,Test
+92,1,Test,2019-01-03 14:08:18.890042+00:00,#i This is me showing that it now works i#,94,5,Test
+93,1,Test,2019-01-03 14:08:18.895148+00:00,"#p Never talk to Aleena after 10:00pm she's cranky p#
+#i Get a new friend i#
+#aBe nicer to your work associates a#
+#d Work more on my programming d#",95,5,Showing this to Heather and Aleena
+94,1,Real,2019-01-03 14:08:18.902024+00:00,"Upon meditating today I made the realisation (once again ) that meditation is a critical part of my life. 
+
+Negative rumination had set in again, yet upon meditating I was able to overcome the ruminating almost instantly, and apply some perspective.
+
+It felt very much so like providing advice to a friend, reinforcing this concept of being the watcher, looking in. 
+
+I had a couple ideas, not all of them nesscarily goers: 
+
+#i Install a camera and use ML to record when people come and leave my house i#
+#i Create a new section of observations in the Compendium app i#
+
+I think very much that I must continue to 1. medidate, 2. reflect on the meditations through journalling.",96,8,Daily Reflection
+95,1,Test,2019-01-03 14:08:18.909357+00:00,#oTest o#,97,5,Test
+96,1,Test,2019-01-03 14:08:18.914171+00:00,#o Test data o#,98,5,Test
+97,1,Real,2019-01-03 14:08:18.918184+00:00,"#o The absence of daily meditation means its far harder for there to be continuity between my days. 
+
+Perhaps I should not only be using it as a tool to try and stave off depression, it can also be a tool of productivity. 
+
+o#",99,5,A reflective thought
+98,1,Real,2019-01-03 14:08:18.922992+00:00,"#o My reservation to meditate at night seems to stem from an aversion to be left with my own thoughts late at night
+This strikes me as illogical as the act of meditation actually appears to grant me greater control over thoughts, with which I have no need to be averse of being alone with my own thoughts
+o#
+
+#dTry and meditate right after putting Jose to bed. You need not go to bed then, but if you are tired enough it's likely you'll sleep during that time. d#",100,8,Regular patterns
+99,1,Real,2019-01-03 14:08:18.932425+00:00,"#a The inherent implication of consuming resources on management
+is that the by virtue of the management a greater amount of resources are 
+saved or gained in the future. a#
+
+#a A lack of willingness to conduct regular management meetings is an acceptance that the entire system will continue to decline due to entropy (e.g. you're either getting better or getting worse, you never stay the same) a#",101,9,Management
+100,1,Real,2019-01-03 14:08:18.938198+00:00,"#i
+Use the Domain API (if feasible https://developer.domain.com.au) to extract data on a regular basis,
+then use that data with a ML algorithm (maybe random forest) to attempt to identify undervalued homes relative to their area
+i#",102,8,Buying a house
+101,1,Real,2019-01-03 14:08:18.943499+00:00,#i Write completed task list app into Django i#,103,6,Completed Task List
+102,1,Real,2019-01-03 14:08:18.947599+00:00,"The late night led to into a number of tangents regarding book ideas, the writings of Epictetus and expanding on the idea of the housing market.
+
+Book Idea: 
+
+#i A book wherein a young female engineer develops an AI which ingests data from a number of disparate sources, which purpose is to identify the greatest threat to human kind. 
+
+When the AI reveals that the greatest threat is mathematically provable to be clmate change. 
+
+The AI further stipulates the granular steps that must be taken to save humanity as a species. 
+
+Attacked by corporations, interest groups, SJW
+
+The protoganist is ignored, people contiually say ""this issue is great, but what about this issue I care about"", or say it's great to have women in technology, without consideration for the technology built 
+
+Conclusion: pro is offered a job, and a membership in a post climate change community for the rich. 
+
+Prequel to AI stories 
+i#
+
+#a Some things are up to us and some are not up to us. Our opinions are up to us, and our impulses, desires, aversions, in short whatever is our doing -Epictetus a#
+
+#a Do not seek to have events happen as you want them to, but instead want them to happen as they do happen, and your life will go well -Epictetus a#
+
+#a Never say about anything 'I have lost it', but instead 'I have given it back' -Epictetus a#
+
+#a What is the price of a head of lettuce, so if someone who has paid an obol takes the head of lettuce, and you who not pay do not take them, do not think taht you are worse off then the one who did. For just as he has the the lettuce, you have the obol that you did not pay. It is the same way in this case. You were not invited to someones banquet, you did not give the host the price of the meal. He sells if for praise; he sells it for attention -Epictetus a#
+
+#o The teaching of Epictetus seem to me to not be about not caring of what happens in the world, or about not wanting to change what happens, but to always accept what happens, and to be unperturbed by anything that happens. 
+
+As Epictetus says ""you would not give your body to any passerby, so why give your judgement?"" - this in essence means, you would not let external events control you physically, why allow them to control you mentally or emotionally. 
+
+o#
+
+#i get a tattooe on my forearm with a bracelet and the greek letters for Enchiridion (the joke, have the manual on hand) i# 
+
+#i Use the housing market idea with Edward to first build a task application, then use the task processing application to ingest data from Domain, then build a machine learning appartus i#",104,9,Book Idea/ Epictetus/ Idea Expansion
+103,1,Real,2019-01-03 14:08:18.964662+00:00,"2018 has represented the most emotionally tumultuous time of my life. 
+
+The confluence of work, study, family and really the first year of my life of feeling really depressed was a trial. 
+
+ From this trial has emerged someone quite different than the year previous. 
+
+My unbridled confidence has been tempered through these experiences, yet what I would say has emerged from this is someone dedicated to self reflection, dedicated to understanding why and what I must to do, and someone resolved in their pursuits - #a The unexamined life is not worth living - Socrates a#
+
+The feelings of depression have been catalysts to be more reflective (meditation) and to seek answers to the struggles of human experience from external sources. 
+
+Specfically this year I've turned to Epictetus, Nietzsche, Marcus Aurelius, Jordan Peterson, Yuval Noah Hararri. Nassim Taleb has remained a constant as always, 
+
+Of the aforementioned influences excluding Taleb, I believe I have scrated the surface, and must continue to reflect upon their work and extract the principles from which would most benefit me in the pursuit of my goals.",105,8,A 2018 Emotional Synopsis
+104,1,Real,2019-01-03 14:08:18.973616+00:00,"During my trip I read and learned about Nieztche, Jordan Peterson, Marcus Auerlius, Xenophon, Socrates 
+
+There have been a number of recurring themes which I'll now express:
+
+#a People words do not reflect their beliefs, their actions do - Jordan Peterson a#
+
+#a To understand yourself, you must carefully watch your actions - Jordan Peterson a#
+
+#a Wish struggle upon all you know, for that is how they grow -Nietzche a#
+
+#o My philosophical stance at this point is attempting to synthesize the ethical teachings of the Stoics with the Taleb antifragile, the Nietzchen compulsion for stressors to become better
+
+It is my thought is this moment that one must be Stoic in relation to the past, Antifragile towards the future, and Nietzchen towards struggle of life. 
+
+This Nietzchen approach seems to have some parallels with: 
+
+Do not go gentle into that good night,
+Old age should burn and rave at close of day; 
+Rage, rage against the dying of the light.
+
+Though wise men at their end know dark is right,
+Because their words had forked no lightning they
+Do not go gentle into that good night.
+
+Good men, the last wave by, crying how bright
+Their frail deeds might have danced in a green bay,
+Rage, rage against the dying of the light.
+
+Wild men who caught and sang the sun in flight,
+And learn, too late, they grieved it on its way,
+Do not go gentle into that good night.
+
+Grave men, near death, who see with blinding sight
+Blind eyes could blaze like meteors and be gay,
+Rage, rage against the dying of the light.
+
+And you, my father, there on that sad height,
+Curse, bless, me now with your fierce tears, I pray.
+Do not go gentle into that good night.
+Rage, rage against the dying of the light. 
+Dylan Thomas
+
+So: No grim acceptance of the natural order, no going quietly into that good night, rage rage 
+o#",106,8,Lessons from Trip to Yepoon
+105,1,Real,2019-01-03 14:08:18.978453+00:00,"Via the delivery mechansim of David West's Philosophize This I made a profound realisation about trying to understand myself through Nietzche 
+
+Nietzche says (paraphrasing) #o Carefully look at how you feel, for it reveals the secrets of who you are. It is the feedback from which you yourself experience the world. Do not deny the way you feel, observe it to try and unpack who you really are o#
+
+This impacted me for when I searched my memory to see find the most vivid memory of feelings it is always towards my kids. Beyond the vague of notion of care more for them than myself, which I of course do, I feel best when watching my children suceed and be happy. 
+
+
+#p When engaging in a decision I must first consider the effect that decision will have on my kids p#",107,10,Knowing ones goals - how to find them
+106,1,Real,2019-01-03 14:08:18.986006+00:00,"#i Read Incerto, and from Incerto extract concepts then find programmatic/ visual ways to illustrate the concepts i#",108,8,The Taleb Projects
+107,1,Real,2019-01-03 14:08:18.990962+00:00,"#i Create a personal branch of philosophy called practical philosophy
+where the core purpose is to create tenets, principles and precepts for getting the best results from life
+
+Not nessacarily having to be entirely cohesive and without contradiction, the point is to create generators which can instantiate responses to issues faced in life
+
+i#
+
+As Peterson says, rules are order",109,8,Practical Philosophy
+108,1,Test,2019-01-03 14:08:18.996307+00:00,#l Does this work? l#,110,5,test
